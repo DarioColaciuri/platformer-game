@@ -1,4 +1,6 @@
+<div align="center">
 <img align="center" height="400" src="https://i.postimg.cc/5yY7RRhK/ecommerce5.png"/>
+</div>
 
 ###
 
