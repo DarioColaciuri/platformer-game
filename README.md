@@ -8,7 +8,8 @@
 
 ###
 
-<p align="left">This is just a sketch of the game, the assets do not belong to me and the only thing you can do is walk, jump and cross doors. Its made with vainilla JS. Keys: A W D </p>
+<p align="center">This is just a sketch of the game, the assets do not belong to me and the only thing you can do is walk, jump and cross doors. Its made with vainilla JS.</p>
+<h3 align="center">Keys: <strong>A W D</strong></h3>
 
 ###
 <br/>
