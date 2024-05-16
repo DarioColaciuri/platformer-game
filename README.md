@@ -1,10 +1,10 @@
-<div align="center">
-<img align="center" height="400" src="https://i.postimg.cc/5yY7RRhK/ecommerce5.png"/>
-</div>
+<h1 align="center">Welcome to my platform game 👋</h1>
 
 ###
 
-<h1 align="center">Welcome to my platform game 👋</h1>
+<div align="center">
+<img align="center" height="400" src="https://i.postimg.cc/5yY7RRhK/ecommerce5.png"/>
+</div>
 
 ###
 
